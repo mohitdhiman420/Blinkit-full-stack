@@ -3,7 +3,7 @@ import { IoIosSearch } from "react-icons/io";
 import { TypeAnimation } from "react-type-animation";
 import { Link, Navigate, useLocation, useNavigate } from "react-router-dom";
 import { FaArrowLeft } from "react-icons/fa";
-import useMobile from "../hooks/UseMobile";
+import useMobile from "../hooks/useMobile";
 
 function Search() {
   const navigate = useNavigate();

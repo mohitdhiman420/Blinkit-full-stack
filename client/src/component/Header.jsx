@@ -9,7 +9,7 @@ import {
   useNavigate,
 } from "react-router-dom";
 import { FaRegUserCircle } from "react-icons/fa";
-import useMobile from "../hooks/UseMobile";
+import useMobile from "../hooks/useMobile";
 import { BsCart4 } from "react-icons/bs";
 import { useSelector } from "react-redux";
 import { FaCaretDown } from "react-icons/fa6";
